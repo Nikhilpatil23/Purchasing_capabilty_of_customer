@@ -5,7 +5,8 @@ import pandas as pd
 import numpy as np
 
 #setting up logs
-log = setup_logger(logger_name= 'scaler_logs', log_file='.\Logs\Scaling_logs.log')
+
+log = setup_logger(logger_name= 'scaler_logs', log_file='Logs\Scaling_logs.log')
 
 class Scaler :
     def __init__(self, scaler_model_path):

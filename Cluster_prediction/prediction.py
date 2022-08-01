@@ -4,7 +4,7 @@ import numpy as np
 from Logging.setup_logger import setup_logger
 
 # setting up logs
-log = setup_logger(logger_name='model_logs', log_file='.\Logs\Prediction_logs.log')
+log = setup_logger(logger_name='model_logs', log_file='Logs\Prediction_logs.log')
 
 
 # creating class for predictions

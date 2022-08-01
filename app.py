@@ -9,7 +9,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 #setting up logs
-log =setup_logger(logger_name='flask_app_log', log_file= '.\Logs\App_logs.log')
+log =setup_logger(logger_name='flask_app_log', log_file= 'Logs\App_logs.log')
 
 #creating instance for class
 scaler = Scaler('saved_models\scaler.pkl')
