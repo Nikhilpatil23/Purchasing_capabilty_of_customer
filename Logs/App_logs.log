@@ -1,0 +1,329 @@
+2022-07-27 01:50:55,075 - INFO - predict - Start taking input from webpage
+2022-07-27 01:50:55,075 - INFO - predict - Recieved POST request
+2022-07-27 01:50:55,080 - INFO - predict - BALANCE : 10000
+2022-07-27 01:50:55,080 - ERROR - predict - Error in taking input from webpage invalid literal for int() with base 10: ''
+2022-07-27 01:51:11,054 - INFO - predict - Start taking input from webpage
+2022-07-27 01:51:11,054 - INFO - predict - Recieved POST request
+2022-07-27 01:51:11,055 - INFO - predict - BALANCE : 10000
+2022-07-27 01:51:11,055 - ERROR - predict - Error in taking input from webpage invalid literal for int() with base 10: ''
+2022-07-27 01:53:50,631 - INFO - predict - Start taking input from webpage
+2022-07-27 01:53:50,635 - INFO - predict - Recieved POST request
+2022-07-27 01:53:50,636 - INFO - predict - BALANCE : 100000
+2022-07-27 01:53:50,636 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-07-27 01:53:50,637 - INFO - predict - PURCHASES : 15000
+2022-07-27 01:53:50,637 - INFO - predict - ONEOFF_PURCHASES : 10000
+2022-07-27 01:53:50,637 - INFO - predict - INSTALLMENTS_PURCHASES : 17000
+2022-07-27 01:53:50,638 - INFO - predict - CASH_ADVANCE : 5000
+2022-07-27 01:53:50,638 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-07-27 01:53:50,639 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 1
+2022-07-27 01:53:50,639 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 1
+2022-07-27 01:53:50,639 - INFO - predict - CASH_ADVANCE_FREQUENCY: 0
+2022-07-27 01:53:50,639 - INFO - predict - CASH_ADVANCE_TRX: 89
+2022-07-27 01:53:50,639 - INFO - predict - PURCHASES_TRX: 200
+2022-07-27 01:53:50,639 - INFO - predict - CREDIT_LIMIT: 30000
+2022-07-27 01:53:50,639 - INFO - predict - PAYMENTS: 20000
+2022-07-27 01:53:50,639 - INFO - predict - MINIMUM_PAYMENTS: 10000
+2022-07-27 01:53:50,640 - INFO - predict - PRC_FULL_PAYMENT: 0
+2022-07-27 01:53:50,640 - INFO - predict - TENURE: 8
+2022-07-27 01:53:50,640 - INFO - predict - Input taken from webpage
+2022-07-27 01:53:50,640 - INFO - predict - Scaling the data
+2022-07-27 01:53:50,641 - INFO - predict - Data scaling completed
+2022-07-27 01:53:50,641 - INFO - predict - Predicting the cluster
+2022-07-27 01:53:50,641 - ERROR - predict - Error occured while predicting :Predict.cluster_predict() missing 1 required positional argument: 'data'
+2022-07-27 02:01:17,629 - INFO - predict - Start taking input from webpage
+2022-07-27 02:01:17,629 - INFO - predict - Recieved POST request
+2022-07-27 02:01:17,633 - INFO - predict - BALANCE : 100000
+2022-07-27 02:01:17,633 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-07-27 02:01:17,633 - INFO - predict - PURCHASES : 2000
+2022-07-27 02:01:17,633 - INFO - predict - ONEOFF_PURCHASES : 3000
+2022-07-27 02:01:17,634 - INFO - predict - INSTALLMENTS_PURCHASES : 25000
+2022-07-27 02:01:17,634 - INFO - predict - CASH_ADVANCE : 10000
+2022-07-27 02:01:17,634 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-07-27 02:01:17,634 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 0
+2022-07-27 02:01:17,634 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 1
+2022-07-27 02:01:17,635 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-07-27 02:01:17,635 - INFO - predict - CASH_ADVANCE_TRX: 28
+2022-07-27 02:01:17,635 - INFO - predict - PURCHASES_TRX: 38
+2022-07-27 02:01:17,637 - INFO - predict - CREDIT_LIMIT: 28000
+2022-07-27 02:01:17,637 - INFO - predict - PAYMENTS: 60000
+2022-07-27 02:01:17,637 - INFO - predict - MINIMUM_PAYMENTS: 15000
+2022-07-27 02:01:17,637 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-07-27 02:01:17,637 - INFO - predict - TENURE: 5
+2022-07-27 02:01:17,637 - INFO - predict - Input taken from webpage
+2022-07-27 02:01:17,637 - INFO - predict - Scaling the data
+2022-07-27 02:01:17,637 - INFO - predict - Data scaling completed
+2022-07-27 02:01:17,637 - INFO - predict - Predicting the cluster
+2022-07-27 02:01:17,637 - ERROR - predict - Error occured while predicting :Predict.cluster_predict() missing 1 required positional argument: 'data'
+2022-07-27 02:10:03,530 - INFO - predict - Start taking input from webpage
+2022-07-27 02:10:03,531 - INFO - predict - Recieved POST request
+2022-07-27 02:10:03,534 - INFO - predict - BALANCE : 150000
+2022-07-27 02:10:03,534 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-07-27 02:10:03,535 - INFO - predict - PURCHASES : 50000
+2022-07-27 02:10:03,535 - INFO - predict - ONEOFF_PURCHASES : 20000
+2022-07-27 02:10:03,535 - INFO - predict - INSTALLMENTS_PURCHASES : 25000
+2022-07-27 02:10:03,535 - INFO - predict - CASH_ADVANCE : 5000
+2022-07-27 02:10:03,535 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-07-27 02:10:03,535 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 0
+2022-07-27 02:10:03,535 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 1
+2022-07-27 02:10:03,535 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-07-27 02:10:03,535 - INFO - predict - CASH_ADVANCE_TRX: 38
+2022-07-27 02:10:03,536 - INFO - predict - PURCHASES_TRX: 158
+2022-07-27 02:10:03,536 - INFO - predict - CREDIT_LIMIT: 28000
+2022-07-27 02:10:03,536 - INFO - predict - PAYMENTS: 20000
+2022-07-27 02:10:03,536 - INFO - predict - MINIMUM_PAYMENTS: 30000
+2022-07-27 02:10:03,536 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-07-27 02:10:03,537 - INFO - predict - TENURE: 4
+2022-07-27 02:10:03,537 - INFO - predict - Input taken from webpage
+2022-07-27 02:10:03,537 - INFO - predict - Scaling the data
+2022-07-27 02:10:03,537 - INFO - predict - Data scaling completed
+2022-07-27 02:10:03,538 - INFO - predict - Predicting the cluster
+2022-07-27 02:10:03,688 - INFO - predict - Cluster prediction done and found : 0
+2022-07-27 02:10:03,702 - INFO - predict - Sending the prediction on html page
+2022-07-28 22:49:18,323 - INFO - predict - Start taking input from webpage
+2022-07-28 22:49:18,324 - INFO - predict - Recieved POST request
+2022-07-28 22:49:18,328 - INFO - predict - BALANCE : 20000
+2022-07-28 22:49:18,328 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-07-28 22:49:18,328 - INFO - predict - PURCHASES : 30000
+2022-07-28 22:49:18,328 - INFO - predict - ONEOFF_PURCHASES : 20000
+2022-07-28 22:49:18,328 - INFO - predict - INSTALLMENTS_PURCHASES : 10000
+2022-07-28 22:49:18,329 - INFO - predict - CASH_ADVANCE : 5000
+2022-07-28 22:49:18,329 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-07-28 22:49:18,329 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 0
+2022-07-28 22:49:18,329 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 1
+2022-07-28 22:49:18,329 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-07-28 22:49:18,329 - INFO - predict - CASH_ADVANCE_TRX: 49
+2022-07-28 22:49:18,329 - INFO - predict - PURCHASES_TRX: 200
+2022-07-28 22:49:18,329 - INFO - predict - CREDIT_LIMIT: 20000
+2022-07-28 22:49:18,330 - INFO - predict - PAYMENTS: 30000
+2022-07-28 22:49:18,330 - INFO - predict - MINIMUM_PAYMENTS: 10000
+2022-07-28 22:49:18,330 - INFO - predict - PRC_FULL_PAYMENT: 0
+2022-07-28 22:49:18,330 - INFO - predict - TENURE: 8
+2022-07-28 22:49:18,330 - INFO - predict - Input taken from webpage
+2022-07-28 22:49:18,330 - INFO - predict - Scaling the data
+2022-07-28 22:49:18,331 - INFO - predict - Data scaling completed
+2022-07-28 22:49:18,331 - INFO - predict - Predicting the cluster
+2022-07-28 22:49:18,498 - INFO - predict - Cluster prediction done and found : 2
+2022-07-28 22:49:18,510 - ERROR - predict - Error occured while predicting :[Errno 13] Permission denied: 'Prediction.csv'
+2022-07-28 23:00:19,424 - INFO - predict - Start taking input from webpage
+2022-07-28 23:00:19,425 - INFO - predict - Recieved POST request
+2022-07-28 23:00:19,429 - INFO - predict - BALANCE : 20000
+2022-07-28 23:00:19,429 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-07-28 23:00:19,429 - INFO - predict - PURCHASES : 30000
+2022-07-28 23:00:19,430 - INFO - predict - ONEOFF_PURCHASES : 30000
+2022-07-28 23:00:19,430 - INFO - predict - INSTALLMENTS_PURCHASES : 20000
+2022-07-28 23:00:19,430 - INFO - predict - CASH_ADVANCE : 10000
+2022-07-28 23:00:19,430 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-07-28 23:00:19,430 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 1
+2022-07-28 23:00:19,431 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 0
+2022-07-28 23:00:19,431 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-07-28 23:00:19,431 - INFO - predict - CASH_ADVANCE_TRX: 59
+2022-07-28 23:00:19,431 - INFO - predict - PURCHASES_TRX: 230
+2022-07-28 23:00:19,432 - INFO - predict - CREDIT_LIMIT: 25000
+2022-07-28 23:00:19,432 - INFO - predict - PAYMENTS: 10000
+2022-07-28 23:00:19,432 - INFO - predict - MINIMUM_PAYMENTS: 5000
+2022-07-28 23:00:19,432 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-07-28 23:00:19,432 - INFO - predict - TENURE: 5
+2022-07-28 23:00:19,432 - INFO - predict - Input taken from webpage
+2022-07-28 23:00:19,432 - INFO - predict - Scaling the data
+2022-07-28 23:00:19,433 - INFO - predict - Data scaling completed
+2022-07-28 23:00:19,433 - INFO - predict - Predicting the cluster
+2022-07-28 23:00:19,569 - INFO - predict - Cluster prediction done and found : 0
+2022-07-28 23:00:19,581 - INFO - predict - Sending the prediction on html page
+2022-07-28 23:34:27,011 - INFO - predict - Start taking input from webpage
+2022-07-28 23:34:27,012 - INFO - predict - Recieved POST request
+2022-07-28 23:34:27,015 - INFO - predict - BALANCE : 20000
+2022-07-28 23:34:27,016 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-07-28 23:34:27,016 - INFO - predict - PURCHASES : 22000
+2022-07-28 23:34:27,016 - INFO - predict - ONEOFF_PURCHASES : 10000
+2022-07-28 23:34:27,016 - INFO - predict - INSTALLMENTS_PURCHASES : 23000
+2022-07-28 23:34:27,016 - INFO - predict - CASH_ADVANCE : 5000
+2022-07-28 23:34:27,016 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-07-28 23:34:27,016 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 1
+2022-07-28 23:34:27,016 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 0
+2022-07-28 23:34:27,017 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-07-28 23:34:27,017 - INFO - predict - CASH_ADVANCE_TRX: 6000
+2022-07-28 23:34:27,017 - INFO - predict - PURCHASES_TRX: 269
+2022-07-28 23:34:27,017 - INFO - predict - CREDIT_LIMIT: 20000
+2022-07-28 23:34:27,017 - INFO - predict - PAYMENTS: 25000
+2022-07-28 23:34:27,017 - INFO - predict - MINIMUM_PAYMENTS: 28000
+2022-07-28 23:34:27,017 - INFO - predict - PRC_FULL_PAYMENT: 0
+2022-07-28 23:34:27,018 - INFO - predict - TENURE: 4
+2022-07-28 23:34:27,018 - INFO - predict - Input taken from webpage
+2022-07-28 23:34:27,018 - INFO - predict - Scaling the data
+2022-07-28 23:34:27,018 - INFO - predict - Data scaling completed
+2022-07-28 23:34:27,018 - INFO - predict - Predicting the cluster
+2022-07-28 23:34:27,163 - INFO - predict - Cluster prediction done and found : 1
+2022-07-28 23:34:27,172 - INFO - predict - Sending the prediction on html page
+2022-07-28 23:41:20,340 - INFO - predict - Start taking input from webpage
+2022-07-28 23:41:20,341 - INFO - predict - Recieved POST request
+2022-07-28 23:41:20,345 - INFO - predict - BALANCE : 25000
+2022-07-28 23:41:20,345 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-07-28 23:41:20,346 - INFO - predict - PURCHASES : 23000
+2022-07-28 23:41:20,346 - INFO - predict - ONEOFF_PURCHASES : 25000
+2022-07-28 23:41:20,346 - INFO - predict - INSTALLMENTS_PURCHASES : 10000
+2022-07-28 23:41:20,346 - INFO - predict - CASH_ADVANCE : 16000
+2022-07-28 23:41:20,346 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-07-28 23:41:20,346 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 1
+2022-07-28 23:41:20,346 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 1
+2022-07-28 23:41:20,347 - INFO - predict - CASH_ADVANCE_FREQUENCY: 0
+2022-07-28 23:41:20,347 - INFO - predict - CASH_ADVANCE_TRX: 69
+2022-07-28 23:41:20,347 - INFO - predict - PURCHASES_TRX: 256
+2022-07-28 23:41:20,347 - INFO - predict - CREDIT_LIMIT: 29000
+2022-07-28 23:41:20,348 - INFO - predict - PAYMENTS: 12000
+2022-07-28 23:41:20,349 - INFO - predict - MINIMUM_PAYMENTS: 5000
+2022-07-28 23:41:20,349 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-07-28 23:41:20,350 - INFO - predict - TENURE: 5
+2022-07-28 23:41:20,350 - INFO - predict - Input taken from webpage
+2022-07-28 23:41:20,350 - INFO - predict - Scaling the data
+2022-07-28 23:41:20,351 - INFO - predict - Data scaling completed
+2022-07-28 23:41:20,352 - INFO - predict - Predicting the cluster
+2022-07-28 23:41:20,505 - INFO - predict - Cluster prediction done and found : 0
+2022-07-28 23:41:20,506 - ERROR - predict - Error occured while predicting :DataFrame.__init__() got an unexpected keyword argument 'column'
+2022-07-28 23:42:33,159 - INFO - predict - Start taking input from webpage
+2022-07-28 23:42:33,160 - INFO - predict - Recieved POST request
+2022-07-28 23:42:33,164 - INFO - predict - BALANCE : 19000
+2022-07-28 23:42:33,164 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-07-28 23:42:33,164 - INFO - predict - PURCHASES : 28000
+2022-07-28 23:42:33,164 - INFO - predict - ONEOFF_PURCHASES : 30000
+2022-07-28 23:42:33,164 - INFO - predict - INSTALLMENTS_PURCHASES : 23000
+2022-07-28 23:42:33,164 - INFO - predict - CASH_ADVANCE : 18000
+2022-07-28 23:42:33,165 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-07-28 23:42:33,165 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 0
+2022-07-28 23:42:33,165 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 1
+2022-07-28 23:42:33,165 - INFO - predict - CASH_ADVANCE_FREQUENCY: 0
+2022-07-28 23:42:33,166 - INFO - predict - CASH_ADVANCE_TRX: 79
+2022-07-28 23:42:33,166 - INFO - predict - PURCHASES_TRX: 289
+2022-07-28 23:42:33,166 - INFO - predict - CREDIT_LIMIT: 19000
+2022-07-28 23:42:33,166 - INFO - predict - PAYMENTS: 30000
+2022-07-28 23:42:33,166 - INFO - predict - MINIMUM_PAYMENTS: 28000
+2022-07-28 23:42:33,167 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-07-28 23:42:33,167 - INFO - predict - TENURE: 5
+2022-07-28 23:42:33,167 - INFO - predict - Input taken from webpage
+2022-07-28 23:42:33,167 - INFO - predict - Scaling the data
+2022-07-28 23:42:33,168 - INFO - predict - Data scaling completed
+2022-07-28 23:42:33,168 - INFO - predict - Predicting the cluster
+2022-07-28 23:42:33,325 - INFO - predict - Cluster prediction done and found : 2
+2022-07-28 23:42:33,325 - ERROR - predict - Error occured while predicting :DataFrame constructor not properly called!
+2022-07-29 00:06:50,425 - INFO - predict - Start taking input from webpage
+2022-07-29 00:06:50,425 - INFO - predict - Recieved POST request
+2022-07-29 00:06:50,428 - INFO - predict - BALANCE : 20000
+2022-07-29 00:06:50,428 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-07-29 00:06:50,428 - INFO - predict - PURCHASES : 30000
+2022-07-29 00:06:50,429 - INFO - predict - ONEOFF_PURCHASES : 29000
+2022-07-29 00:06:50,429 - INFO - predict - INSTALLMENTS_PURCHASES : 24000
+2022-07-29 00:06:50,429 - INFO - predict - CASH_ADVANCE : 19000
+2022-07-29 00:06:50,429 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-07-29 00:06:50,430 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 0
+2022-07-29 00:06:50,430 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 0
+2022-07-29 00:06:50,430 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-07-29 00:06:50,431 - INFO - predict - CASH_ADVANCE_TRX: 90
+2022-07-29 00:06:50,431 - INFO - predict - PURCHASES_TRX: 345
+2022-07-29 00:06:50,431 - INFO - predict - CREDIT_LIMIT: 29000
+2022-07-29 00:06:50,432 - INFO - predict - PAYMENTS: 23000
+2022-07-29 00:06:50,432 - INFO - predict - MINIMUM_PAYMENTS: 10000
+2022-07-29 00:06:50,432 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-07-29 00:06:50,432 - INFO - predict - TENURE: 5
+2022-07-29 00:06:50,432 - INFO - predict - Input taken from webpage
+2022-07-29 00:06:50,433 - INFO - predict - Scaling the data
+2022-07-29 00:06:50,434 - INFO - predict - Data scaling completed
+2022-07-29 00:06:50,434 - INFO - predict - Predicting the cluster
+2022-07-29 00:06:50,590 - INFO - predict - Cluster prediction done and found : 0
+2022-07-29 00:06:50,604 - INFO - predict - Sending the prediction on html page
+2022-08-01 00:07:52,146 - INFO - predict - Start taking input from webpage
+2022-08-01 00:07:52,147 - INFO - predict - Recieved POST request
+2022-08-01 00:07:52,149 - INFO - predict - BALANCE : 15000
+2022-08-01 00:07:52,149 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-08-01 00:07:52,149 - INFO - predict - PURCHASES : 34000
+2022-08-01 00:07:52,150 - INFO - predict - ONEOFF_PURCHASES : 5000
+2022-08-01 00:07:52,150 - INFO - predict - INSTALLMENTS_PURCHASES : 22000
+2022-08-01 00:07:52,150 - INFO - predict - CASH_ADVANCE : 18000
+2022-08-01 00:07:52,150 - INFO - predict - PURCHASES_FREQUENCY : 0
+2022-08-01 00:07:52,150 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 1
+2022-08-01 00:07:52,150 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 0
+2022-08-01 00:07:52,150 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-08-01 00:07:52,151 - INFO - predict - CASH_ADVANCE_TRX: 23
+2022-08-01 00:07:52,151 - INFO - predict - PURCHASES_TRX: 233
+2022-08-01 00:07:52,151 - INFO - predict - CREDIT_LIMIT: 28000
+2022-08-01 00:07:52,151 - INFO - predict - PAYMENTS: 25000
+2022-08-01 00:07:52,151 - INFO - predict - MINIMUM_PAYMENTS: 10000
+2022-08-01 00:07:52,152 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-08-01 00:07:52,152 - INFO - predict - TENURE: 8
+2022-08-01 00:07:52,152 - INFO - predict - Input taken from webpage
+2022-08-01 00:07:52,152 - INFO - predict - Scaling the data
+2022-08-01 00:07:52,155 - INFO - predict - Data scaling completed
+2022-08-01 00:07:52,155 - INFO - predict - Predicting the cluster
+2022-08-01 00:07:52,341 - INFO - predict - Cluster prediction done and found : 0
+2022-08-01 00:07:52,362 - INFO - predict - Sending the prediction on html page
+2022-08-01 22:19:35,427 - INFO - predict - Start taking input from webpage
+2022-08-01 22:19:35,427 - INFO - predict - Recieved POST request
+2022-08-01 22:19:35,430 - INFO - predict - BALANCE : 19000
+2022-08-01 22:19:35,431 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-08-01 22:19:35,431 - INFO - predict - PURCHASES : 30000
+2022-08-01 22:19:35,431 - INFO - predict - ONEOFF_PURCHASES : 23000
+2022-08-01 22:19:35,432 - INFO - predict - INSTALLMENTS_PURCHASES : 19000
+2022-08-01 22:19:35,432 - INFO - predict - CASH_ADVANCE : 18000
+2022-08-01 22:19:35,433 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-08-01 22:19:35,433 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 0
+2022-08-01 22:19:35,434 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 0
+2022-08-01 22:19:35,434 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-08-01 22:19:35,434 - INFO - predict - CASH_ADVANCE_TRX: 110
+2022-08-01 22:19:35,434 - INFO - predict - PURCHASES_TRX: 233
+2022-08-01 22:19:35,434 - INFO - predict - CREDIT_LIMIT: 28000
+2022-08-01 22:19:35,434 - INFO - predict - PAYMENTS: 25000
+2022-08-01 22:19:35,434 - INFO - predict - MINIMUM_PAYMENTS: 40000
+2022-08-01 22:19:35,435 - INFO - predict - PRC_FULL_PAYMENT: 0
+2022-08-01 22:19:35,435 - INFO - predict - TENURE: 7
+2022-08-01 22:19:35,435 - INFO - predict - Input taken from webpage
+2022-08-01 22:19:35,435 - INFO - predict - Scaling the data
+2022-08-01 22:19:35,435 - INFO - predict - Data scaling completed
+2022-08-01 22:19:35,436 - INFO - predict - Predicting the cluster
+2022-08-01 22:19:35,436 - ERROR - predict - Error occured while predicting :int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2022-08-01 22:27:13,471 - INFO - predict - Start taking input from webpage
+2022-08-01 22:27:13,472 - INFO - predict - Recieved POST request
+2022-08-01 22:27:13,478 - INFO - predict - BALANCE : 18000
+2022-08-01 22:27:13,478 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-08-01 22:27:13,478 - INFO - predict - PURCHASES : 27000
+2022-08-01 22:27:13,478 - INFO - predict - ONEOFF_PURCHASES : 23000
+2022-08-01 22:27:13,478 - INFO - predict - INSTALLMENTS_PURCHASES : 23000
+2022-08-01 22:27:13,479 - INFO - predict - CASH_ADVANCE : 18000
+2022-08-01 22:27:13,479 - INFO - predict - PURCHASES_FREQUENCY : 0
+2022-08-01 22:27:13,479 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 1
+2022-08-01 22:27:13,480 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 1
+2022-08-01 22:27:13,480 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-08-01 22:27:13,480 - INFO - predict - CASH_ADVANCE_TRX: 120
+2022-08-01 22:27:13,480 - INFO - predict - PURCHASES_TRX: 233
+2022-08-01 22:27:13,481 - INFO - predict - CREDIT_LIMIT: 28000
+2022-08-01 22:27:13,481 - INFO - predict - PAYMENTS: 40000
+2022-08-01 22:27:13,481 - INFO - predict - MINIMUM_PAYMENTS: 29000
+2022-08-01 22:27:13,481 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-08-01 22:27:13,481 - INFO - predict - TENURE: 7
+2022-08-01 22:27:13,482 - INFO - predict - Input taken from webpage
+2022-08-01 22:27:13,482 - INFO - predict - Scaling the data
+2022-08-01 22:27:13,488 - INFO - predict - Data scaling completed
+2022-08-01 22:27:13,488 - INFO - predict - Predicting the cluster
+2022-08-01 22:27:13,489 - ERROR - predict - Error occured while predicting :int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2022-08-01 22:32:12,002 - INFO - predict - Start taking input from webpage
+2022-08-01 22:32:12,003 - INFO - predict - Recieved POST request
+2022-08-01 22:32:12,005 - INFO - predict - BALANCE : 12000
+2022-08-01 22:32:12,005 - INFO - predict - BALANCE_FREQUENCY : 1
+2022-08-01 22:32:12,006 - INFO - predict - PURCHASES : 34000
+2022-08-01 22:32:12,006 - INFO - predict - ONEOFF_PURCHASES : 23000
+2022-08-01 22:32:12,006 - INFO - predict - INSTALLMENTS_PURCHASES : 23000
+2022-08-01 22:32:12,006 - INFO - predict - CASH_ADVANCE : 19000
+2022-08-01 22:32:12,007 - INFO - predict - PURCHASES_FREQUENCY : 1
+2022-08-01 22:32:12,007 - INFO - predict - ONEOFF_PURCHASES_FREQUENCY : 1
+2022-08-01 22:32:12,007 - INFO - predict - PURCHASES_INSTALLMENTS_FREQUENCY : 1
+2022-08-01 22:32:12,007 - INFO - predict - CASH_ADVANCE_FREQUENCY: 1
+2022-08-01 22:32:12,007 - INFO - predict - CASH_ADVANCE_TRX: 120
+2022-08-01 22:32:12,007 - INFO - predict - PURCHASES_TRX: 233
+2022-08-01 22:32:12,007 - INFO - predict - CREDIT_LIMIT: 23000
+2022-08-01 22:32:12,007 - INFO - predict - PAYMENTS: 35000
+2022-08-01 22:32:12,007 - INFO - predict - MINIMUM_PAYMENTS: 45000
+2022-08-01 22:32:12,007 - INFO - predict - PRC_FULL_PAYMENT: 1
+2022-08-01 22:32:12,007 - INFO - predict - TENURE: 7
+2022-08-01 22:32:12,007 - INFO - predict - Input taken from webpage
+2022-08-01 22:32:12,007 - INFO - predict - Scaling the data
+2022-08-01 22:32:12,008 - INFO - predict - Data scaling completed
+2022-08-01 22:32:12,008 - INFO - predict - Predicting the cluster
+2022-08-01 22:32:12,188 - INFO - predict - Cluster prediction done and found : 0
+2022-08-01 22:32:12,199 - INFO - predict - Sending the prediction on html page
