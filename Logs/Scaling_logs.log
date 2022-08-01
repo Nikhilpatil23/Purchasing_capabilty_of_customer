@@ -164,3 +164,21 @@
 2022-08-01 22:32:12,007 - INFO - scale_data - data is valid
 2022-08-01 22:32:12,007 - INFO - scale_data - scaling the data
 2022-08-01 22:32:12,008 - INFO - scale_data - Scaling of numpy array done 
+2022-08-02 00:08:42,118 - INFO - __init__ - Initialising scaling class
+2022-08-02 00:08:42,118 - INFO - __init__ - Loading scaler model
+2022-08-02 00:08:42,947 - INFO - __init__ - scaler model loaded successfully
+2022-08-02 00:08:44,767 - INFO - __init__ - Initialising scaling class
+2022-08-02 00:08:44,767 - INFO - __init__ - Loading scaler model
+2022-08-02 00:08:45,535 - INFO - __init__ - scaler model loaded successfully
+2022-08-02 00:09:27,306 - INFO - scale_data - data is valid
+2022-08-02 00:09:27,306 - INFO - scale_data - scaling the data
+2022-08-02 00:09:27,306 - INFO - scale_data - Scaling of numpy array done 
+2022-08-02 00:16:54,601 - INFO - __init__ - Initialising scaling class
+2022-08-02 00:16:54,601 - INFO - __init__ - Loading scaler model
+2022-08-02 00:16:55,399 - INFO - __init__ - scaler model loaded successfully
+2022-08-02 00:16:57,010 - INFO - __init__ - Initialising scaling class
+2022-08-02 00:16:57,010 - INFO - __init__ - Loading scaler model
+2022-08-02 00:16:58,721 - INFO - __init__ - scaler model loaded successfully
+2022-08-02 00:17:33,242 - INFO - scale_data - data is valid
+2022-08-02 00:17:33,242 - INFO - scale_data - scaling the data
+2022-08-02 00:17:33,242 - INFO - scale_data - Scaling of numpy array done 

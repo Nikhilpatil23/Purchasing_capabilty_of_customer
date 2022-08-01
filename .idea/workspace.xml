@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4175c1b-60e8-4349-a851-d017ac74b7ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cluster_prediction/prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cluster_prediction/prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/App_logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/App_logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Prediction_logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Prediction_logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Scaling_logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Scaling_logs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_scaling/scaler.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_scaling/scaler.py" afterDir="false" />
@@ -44,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/PURCHASING_CAPABILITIES_-main",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">

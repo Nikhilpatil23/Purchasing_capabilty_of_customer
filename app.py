@@ -12,8 +12,8 @@ warnings.filterwarnings('ignore')
 log =setup_logger(logger_name='flask_app_log', log_file= '.\Logs\App_logs.log')
 
 #creating instance for class
-scaler = Scaler('.\saved_models\\scaler.pkl')
-pred = Predict('.\saved_models\\cluster_models.pkl')
+scaler = Scaler('saved_models\scaler.pkl')
+pred = Predict('saved_models\cluster_models.pkl')
 
 #creating flask instance
 app = Flask(__name__)
